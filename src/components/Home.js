@@ -60,7 +60,7 @@ const Home = () => {
           y: -50,
         }}
       >
-        Welcome to Pizza Joint
+        Welcome to Pizza Join
       </motion.h2>
       <Link to="/base">
         <motion.button variants={buttonVariants} whileHover="hover">
