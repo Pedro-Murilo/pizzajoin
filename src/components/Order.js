@@ -1,5 +1,5 @@
-import { motion, AnimatePresence } from "framer-motion";
-import React, { useEffect, useState } from "react";
+import { motion } from "framer-motion";
+import React, { useEffect } from "react";
 
 const containerVariants = {
   hidden: {
